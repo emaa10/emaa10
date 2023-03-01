@@ -8,7 +8,7 @@
 
 
 
-int calculate(int art, double zahl1, double zahl2) {
+public int calculate(int art, double zahl1, double zahl2) {
     double result;
     if(art == 1) {
         result = zahl1 + zahl2;
