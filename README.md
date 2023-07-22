@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emaa10
 - 👀 I’m a big fan of macOS, and I like python and arduino
-- 🌱 I’m currently learning nothing bruh
+- 🌱 I’m currently learning to use nvim (neovim) instead of VSCode
 - 💞️ I’m looking to collaborate with my friends and team members
 - 📫 How to reach me Discord: lontage#2682
 
