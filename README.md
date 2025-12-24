@@ -1,8 +1,6 @@
 # 👋 Hi, ich bin Emanuel
 
-🎂 **Alter:** {{AGE}}  
 📍 **Wohnort:** Umkreis München  
-🚀 **Aktuelles Projekt:** {{CURRENT_PROJECT}}
 
 ---
 
@@ -13,4 +11,5 @@
 
 📫 **Kontakt:**  
 - GitHub: [@emaa10](https://github.com/emaa10)
+- Instagram: [@ema.brgr](https://instagram.com/ema.brgr)
 - Discord: lontage
