@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @emaa10
-- 👀 I’m a big fan of macOS, and I like python and arduino
-- 🌱 I’m currently learning to use nvim (neovim) instead of VSCode
-- 💞️ I’m looking to collaborate with my friends and team members
-- 📫 How to reach me Discord: lontage#2682
+# 👋 Hi, ich bin Emanuel
 
-<!---
-emaa10/emaa10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎂 **Alter:** {{AGE}}  
+📍 **Wohnort:** Umkreis München  
+🚀 **Aktuelles Projekt:** {{CURRENT_PROJECT}}
+
+---
+
+✨ Interessiert an Softwareentwicklung, neuen Technologien und kreativen Ideen.  
+💻 Immer am Lernen und Experimentieren.
+
+---
+
+📫 **Kontakt:**  
+- GitHub: [@emaa10](https://github.com/emaa10)
+- Discord: lontage
